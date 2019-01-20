@@ -17,11 +17,4 @@ public class Calculator {
         }
         return num1 / num2;
     }
-
-    public static void main(String[] args) {
-
-        System.out.println(3 == (int)3);
-
-
-    }
 }
